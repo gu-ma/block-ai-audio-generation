@@ -1,9 +1,9 @@
 ---
-title: "01 — Sequence vs Raw Audio Generation"
+title: "02 — Sequence vs Raw Audio Generation"
 draft: false
 ---
 
-# 01 — Sequence vs Raw Audio Generation
+# 02 — Sequence vs Raw Audio Generation
 
 One of the most useful creative decisions is choosing **what the model generates**:
 
