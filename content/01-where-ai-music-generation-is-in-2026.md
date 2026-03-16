@@ -5,8 +5,6 @@ draft: false
 
 # 01 — Where AI Music Generation Is in 2026
 
-If you want the clearest non-technical summary, it is this:
-
 > **There is no single “best” AI music model anymore. The strongest systems now mix several ideas together.**
 
 Instead of one magic method, today’s best music tools usually follow a pipeline:
@@ -94,11 +92,11 @@ Rather than one dominant model, we now have a few leading design patterns.
 
 ## Simple takeaway for class
 
-If you need one sentence:
+If you need to remember one sentence:
 
 > **The best AI music systems in 2026 do not just generate sound — they plan the song, organize it in a compact form, and then turn it into audio.**
 
-If you need one-line comparison language:
+Comparison language for reference:
 
 - **planner + diffusion systems** are strongest for **overall quality and speed**, :contentReference
 - **audio-token language models** are strongest for **lyrics and vocal alignment**, :contentReference
