@@ -1,6 +1,4 @@
 
-> ➡️ Start here: [Usage](./usage.md)
-
 # Block: AI – Audio Generation
 
 This block introduces AI audio generation through a **creative workflow lens**. Students learn where current tools come from, how different generation techniques work (sequence vs raw audio), and how to integrate voice cloning, TTS, and music generation into a practical studio pipeline.
